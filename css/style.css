@@ -94,3 +94,32 @@ canvas{
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
+
+.container{
+    position:absolute;
+    width:100%;
+    top:40%;
+    padding-left:20%;
+    background: rgba(200, 54, 54, 0.8);
+    float:left;
+}
+.logos{
+    padding:2em;
+}
+
+a, a:hover{
+    color:white;
+}
+
+h2 {
+    font-size:300%;
+}
+h3{
+    font-size:200%;
+
+}
+
+h2, h3, h4 {
+    margin-top:1em;
+}
+
