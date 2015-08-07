@@ -98,8 +98,8 @@ canvas{
 .container{
     position:absolute;
     width:100%;
-    top:40%;
-    padding-left:20%;
+    top:20%;
+    padding-left:10%;
     background: rgba(200, 54, 54, 0.8);
     float:left;
 }
