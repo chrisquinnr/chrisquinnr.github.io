@@ -99,6 +99,7 @@ canvas{
     position:absolute;
     width:100%;
     top:20%;
+    padding-left:3%;
     background: rgba(200, 54, 54, 0.8);
     float:left;
 }
