@@ -1,5 +1,5 @@
 # About
-Full Stack Developer @ [Gravitywell](https://gravitywellco.uk)
+Full Stack Developer @ [Gravitywell](https://gravitywell.co.uk)
 
 I make things in Node, PHP and more.
 
