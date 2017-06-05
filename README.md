@@ -5,4 +5,4 @@ Full Stack Developer @ [Gravitywell](https://gravitywell.co.uk)
 
 I make things in Node, PHP and more.
 
-![](http://i.imgur.com/tXSoThF.png) [chrisquinnr](https://twitter.com/chrisquinnr)
+![](http://i.imgur.com/wWzX9uB.png) [chrisquinnr](https://twitter.com/chrisquinnr)
