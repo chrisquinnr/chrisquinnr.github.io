@@ -1,3 +1,7 @@
+
+Inline-style:
+![Chris Quinn's GitHub Profile, Header Image](http://imgur.com/a/nWU0y)
+
 # About
 Full Stack Developer @ [Gravitywell](https://gravitywell.co.uk)
 
