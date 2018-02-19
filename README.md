@@ -3,6 +3,7 @@
 ## About
 
 Full Stack Developer
+
 Technical Director @ [Create Health](https://www.createmarketing.co.uk)
 
 https://about.me/chrisquinn 
