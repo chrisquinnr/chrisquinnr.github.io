@@ -1,4 +1,4 @@
-![Chris Quinn's GitHub Profile, Header Image](http://i.imgur.com/7lnmioa.jpg)
+![Chris Quinn's GitHub Profile, Header Image](https://pbs.twimg.com/profile_images/895656313845411840/v3Us7TIV_400x400.jpg)
 
 ## About
 
