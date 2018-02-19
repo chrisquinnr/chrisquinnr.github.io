@@ -16,7 +16,15 @@ Full Stack Developer @ [Gravitywell](https://gravitywell.co.uk)
 
 
 ## Articles
+ 
+* [Pretty Wonderful Advancement](https://www.createmarketing.co.uk/blog/progressive-web-apps/)
 
+   Fresh from a Google PWA bootcamp, notes on the potential of [PWA tech](https://developers.google.com/web/progressive-web-apps/)
+
+* [NoCoffee](https://medium.com/@chrisquinnr/nocoffee-the-vision-impairment-simulator-you-should-be-using-f81992c1effc)
+
+  The vision impairment simulator we should all be using.
+ 
 * [Serverless, do more](https://www.gravitywell.co.uk/latest/labs/posts/serverless-do-more/)
 
    Intro & discussion of microservice architectures using [Serverless](https://serverless.com/)
