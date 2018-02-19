@@ -2,11 +2,13 @@
 
 ## About
 
-Full Stack Developer @ [Gravitywell](https://gravitywell.co.uk)
+Full Stack Developer
+Technical Director @ [Create Health](https://www.createmarketing.co.uk)
 
+https://about.me/chrisquinn 
 ![](http://i.imgur.com/wWzX9uB.png) [chrisquinnr](https://twitter.com/chrisquinnr)
 
-### I architect, design and build awesome web apps in Node.js, PHP & more.
+### I architect, design and build awesome web apps in Node.js & more.
 
 * Node.js, Meteor.js, MongoDB, LAMP, JS, CSS, HTML, JQuery
 * Cucumber, Jasmine, Mocha, (BDD), nodeunit, Chimp.js
