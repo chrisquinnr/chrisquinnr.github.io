@@ -17,10 +17,10 @@ I've been writing code, building systems and running highly effective engineerin
 ### Recent experience
 - At [Cogsy](https://cogsy.com/), I helped lead the team in leveraging machine learning to power intelligent inventory forecasting & growth planning for DTC businesses, integrating with Shopify & Amazon FBA.
 
-- As CTO of Landmrk, I led the development  a marketing platform working with global brands such as Universal & Warner Bros built on highly-available auto-scaling AWS architecture. 
+- As CTO of [Landmrk](https://landmrk.it/), I led the development of a marketing platform working with global brands such as Universal & Warner Bros built on highly-available auto-scaling AWS architecture, managing several dev teams across the core platform and campaign-specific projects. 
 
 [See my LinkedIn ](https://www.linkedin.com/in/chrisquinnr/)to travel further back in time.
 
 ### Other places to find me
-- [https://mastodon.social/@chrisquinn](https://mastodon.social/@chrisquinn)https://mastodon.social/@chrisquinn
-- [https://about.me/chrisquinn](https://about.me/chrisquinn)https://about.me/chrisquinn
+- [https://mastodon.social/@chrisquinn](https://mastodon.social/@chrisquinn)
+- [https://about.me/chrisquinn](https://about.me/chrisquinn)
